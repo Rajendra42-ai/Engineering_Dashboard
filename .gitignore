@@ -99,5 +99,4 @@ __queuestorage__
 __azurite_db*__.json
 
 Oracle_JDK-22/
-credentials/
 .vscode/
